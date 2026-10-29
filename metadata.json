@@ -1,0 +1,6 @@
+{
+  "name": "El Petit Pensador - Diari Digital",
+  "description": "Diari digital de reflexió, cultura, societat i actualitat en català. El pensament crític amb veu pròpia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
